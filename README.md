@@ -22,3 +22,5 @@ There are various options for installing the Esion iOS application. So, based on
 
 Note We are not the official Esign iOS team; you can find them here. We only provide installation information and download links from reliable sources. So, all credit goes to Esign Team- https://esign.yyyue.xyz/. 
 
+We are not EsigniOS. This website is only for informational purposes. We use the title only for reference and not with the intention that we have any affiliation with the brand. Names, logos, images, and trademarks are the property of its respectful owners. We provide support for Install, Activate and Update your product instantly. Your product will be activated from third party support team.
+
